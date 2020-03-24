@@ -1,2 +1,2 @@
 # singlePageTemplateVanillaJs
-this is an example of single page application written by me with pure Javascript 
+this is an example of single page application structure written by me with pure Javascript 
